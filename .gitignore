@@ -1,0 +1,22 @@
+# Build artifacts
+/target
+*.pdb
+
+# Rust
+**/*.rs.bk
+Cargo.lock.bk
+
+# IDE and Editor configuration
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Packaging and archives
+*.zip
+*.tar.gz
